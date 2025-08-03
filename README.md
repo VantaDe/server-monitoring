@@ -100,3 +100,6 @@ Um sicherzustellen, dass die Anwendung auch nach einem Neustart automatisch gest
     ```
 
 Sie können den Status des Dienstes jederzeit mit dem Befehl `sudo systemctl status server_monitor.service` überprüfen.
+
+Der zugang zur Website wird über die IP gewährt sprich http://server-ip:5000
+Port wurde 5000 gewählt 
